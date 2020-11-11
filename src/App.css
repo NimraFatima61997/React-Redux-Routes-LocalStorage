@@ -1,0 +1,13 @@
+
+.cn{
+    background-image: url(./Assets/bg.png);
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100%;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 80%;
+    background-position-y: 60px;
+    background-position-x: 50%;
+  }
