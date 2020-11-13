@@ -16,4 +16,4 @@ Clone the project from the following URL https://github.com/NimraFatima61997/Rea
 * Run npm i react-router-dom: 5.2.0
 * Run npm i react-scripts: 3.4.4
 * Run npm i redux: 4.0.52
-* Run  npm start
+* Run  `npm start`
